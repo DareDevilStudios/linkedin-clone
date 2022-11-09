@@ -1,0 +1,11 @@
+.top{
+    width: 35rem;
+}
+
+span{
+    font-size: 12px;
+}
+
+input:focus, textarea:focus {
+    outline: none;
+}
